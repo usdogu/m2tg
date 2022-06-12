@@ -1,0 +1,6 @@
+#+title: M2TG
+
+* Setup
++ Clone the repo
++ Edit required fields in src/main.rs
++ Run ~cargo run --release~
